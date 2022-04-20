@@ -1,39 +1,39 @@
-## Welcome to GitHub Pages
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/vtrois/kratos@4.0.3/assets/img/options/about.png">
+</p>
 
-You can use the [editor on GitHub](https://github.com/thexlan/thexlan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img src="https://img.shields.io/badge/php-%3E7.2.5-blue">
+<img src="https://img.shields.io/badge/wordpress-v5.9%20alpha%20tested-%234c1">
+<a href="https://vtrois.crowdin.com/kratos" target="_blank"><img src="https://badges.crowdin.net/e/f1d1a7eaa6af337dba7aa4a39b28e67c/localized.svg"></a>
+<a href="https://www.jsdelivr.com/package/gh/vtrois/kratos" target="_blank"><img src="https://data.jsdelivr.com/v1/package/gh/vtrois/kratos/badge?style=rounded"></a>
+<img src="https://img.shields.io/github/license/vtrois/kratos?color=%234c1">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+English | [简体中文](README.zh-CN.md)
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kratos is a responsive WordPress theme focused on the user reading experience, just for fun 🎉
 
-```markdown
-Syntax highlighted code block
+## Install
 
-# Header 1
-## Header 2
-### Header 3
+1. First download the theme's .zip file from the source file to your local computer.
 
-- Bulleted
-- List
+2. From your WordPress Administration area, head to Appearance > Themes and click `Add New`.
 
-1. Numbered
-2. List
+3. The Add New theme screen has a new option, `Upload Theme`.
 
-**Bold** and _Italic_ and `Code` text
+4. The theme upload form is now open, click `Choose File`, select the theme zip file on your computer and click `Install Now`.
 
-[Link](url) and ![Image](src)
-```
+5. The theme can now be activated from the administrator. Select the `Appearance` tab, then open the theme catalog, find the theme, and click the `Activate link`.
 
-[Just A Link](https://thexlan.github.io/)
+## Changelog
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Detailed changes for each release are documented in the [release notes](https://github.com/vtrois/kratos/releases).
 
-### Jekyll Themes
+## License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thexlan/thexlan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The code is available under the [GPL-3.0](https://github.com/vtrois/kratos/blob/main/LICENSE) license.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The document is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
